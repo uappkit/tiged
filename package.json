@@ -1,6 +1,6 @@
 {
 	"name": "@uappx/tiged",
-	"version": "2.12.6",
+	"version": "2.12.7",
 	"engines": {
 		"node": ">=8.0.0"
 	},
@@ -16,15 +16,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/tiged/tiged.git"
+		"url": "git+https://github.com/uappkit/tiged.git"
 	},
 	"keywords": ["scaffolding", "template", "git"],
 	"author": "tiged",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/tiged/tiged/issues"
+		"url": "https://github.com/uappkit/tiged/issues"
 	},
-	"homepage": "https://github.com/tiged/tiged#readme",
+	"homepage": "https://github.com/uappkit/tiged#readme",
 	"dependencies": {
 		"colorette": "1.2.1",
 		"enquirer": "2.3.6",
